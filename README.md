@@ -2,9 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas | ADS Student`**
 
-Olá! Me chamo Pedro Pollis, sou de Franco da Rocha - SP, e atualmente curso Análise e Desenvolvimento de Sistemas na UNINOVE.  
-Estou começando minha jornada no mundo da programação, aprendendo tecnologias como **Python**, **JavaScript**, **HTML** e **CSS**.  
-Construo projetos simples para praticar e desenvolver minhas habilidades, e compartilho tudo aqui no meu GitHub como parte da minha evolução.
+Olá! Me chamo Pedro Pollis, sou de Franco da Rocha - SP, e atualmente curso Análise e Desenvolvimento de Sistemas na UNINOVE. Estou começando minha jornada no mundo da programação, aprendendo tecnologias como **Python**, **JavaScript**, **HTML** e **CSS**. Construo projetos simples para praticar e desenvolver minhas habilidades, e compartilho tudo aqui no meu GitHub como parte da minha evolução.
 
 ---
 
