@@ -54,12 +54,12 @@ Olá! Me chamo Pedro Pollis, sou de Franco da Rocha - SP, e atualmente curso An�
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPollis&show_icons=true&theme=dark&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPollis&layout=compact&theme=dark&locale=pt-br"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroPollis&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroPollis&theme=tokyonight"/>
+</p>
 
 <br>
 
