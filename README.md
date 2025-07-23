@@ -56,7 +56,7 @@ Olá! Me chamo Pedro Pollis, sou de Franco da Rocha - SP, e atualmente curso An�
 
 ### 📊 Estatísticas
 
-<p align="left">
+<p align="center">
   <img 
     alt="GitHub Stats" 
     height="180" 
