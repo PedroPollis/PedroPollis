@@ -82,7 +82,7 @@ Olá! Me chamo Pedro Pollis, sou de Franco da Rocha - SP, e atualmente curso An�
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💻 Aprendendo programação do zero com foco em **desenvolvimento web**
--  📍  Franco da Rocha - SP
+- 📍 Franco da Rocha - SP
 - 🌱 Projetos simples, mas com dedicação e vontade de evoluir
 - 🚀 Em busca de oportunidades para aplicar o que estou aprendendo
 
