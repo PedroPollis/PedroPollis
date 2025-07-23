@@ -71,10 +71,8 @@ OlÃ¡! Me chamo Pedro Pollis, sou de Franco da Rocha - SP, e atualmente curso AnÃ
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPollis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
-<br/>
 <br/>
 
 ---
