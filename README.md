@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Pedro Pollis
+# 👨🏻‍💻 Hi there! I'm Pedro Pollis
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
