@@ -74,6 +74,8 @@ Olá! Me chamo Pedro Pollis, sou de Franco da Rocha - SP, e atualmente curso An�
 
 </p>
 
+
+
 ---
 
 ### 📌 Sobre mim
