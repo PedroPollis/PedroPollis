@@ -56,19 +56,22 @@ Olá! Me chamo Pedro Pollis, sou de Franco da Rocha - SP, e atualmente curso An�
 
 ### 📊 Estatísticas
 
-<br/>
-
-<p align="center">
+<p>
   <img 
+    align="left" 
     alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=PedroPollis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  <img 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPollis&theme=tokyonight&layout=compact&custom_title=Tecnologias+Mais+Usadas&langs_count=6" 
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
 
 <br/>
