@@ -1,5 +1,6 @@
 # 👨🏻‍💻 Hi there! I'm Pedro Pollis  
-### Estudante de Análise e Desenvolvimento de Sistemas | ADS Student
+
+**'Estudante de Análise e Desenvolvimento de Sistemas | ADS Student'**
 
 Olá! Me chamo Pedro Pollis, sou de Franco da Rocha - SP, e atualmente curso Análise e Desenvolvimento de Sistemas na UNINOVE.  
 Estou começando minha jornada no mundo da programação, aprendendo tecnologias como **Python**, **JavaScript**, **HTML** e **CSS**.  
