@@ -1,9 +1,9 @@
-# 👨🏻‍💻 Hi there! I'm Pedro Pollis
+# 👨🏻‍💻 Hi there! I'm Pedro Pollis  
+## Estudante de Análise e Desenvolvimento de Sistemas | ADS Student
 
-**`Estudante de Análise e Desenvolvimento de Sistemas | ADS Student`**
-
-Olá! Me chamo Pedro Pollis, sou de Franco da Rocha - SP, e atualmente curso Análise e Desenvolvimento de Sistemas na UNINOVE. Estou começando minha jornada no mundo da programação, aprendendo tecnologias como Python, JavaScript, HTML e CSS.  
-Estou construindo projetos simples para praticar e desenvolver minhas habilidades, e compartilho tudo aqui no meu GitHub como parte da minha evolução.
+Olá! Me chamo Pedro Pollis, sou de Franco da Rocha - SP, e atualmente curso Análise e Desenvolvimento de Sistemas na UNINOVE.  
+Estou começando minha jornada no mundo da programação, aprendendo tecnologias como **Python**, **JavaScript**, **HTML** e **CSS**.  
+Construo projetos simples para praticar e desenvolver minhas habilidades, e compartilho tudo aqui no meu GitHub como parte da minha evolução.
 
 ---
 
@@ -57,6 +57,8 @@ Estou construindo projetos simples para praticar e desenvolver minhas habilidade
 
 ### 📊 Estatísticas
 
+<br/>
+
 <p align="center">
   <img 
     alt="GitHub Stats" 
@@ -86,8 +88,9 @@ Estou construindo projetos simples para praticar e desenvolver minhas habilidade
 
 ### 📫 Contato
 
-Você pode me encontrar em breve no LinkedIn! *(coloque seu link aqui quando criar)*
+- 📧 Email: [pedropollis@outlook.com](mailto:pedropollis@outlook.com)  
+- 🔗 LinkedIn: *(em breve)* — crie e atualize aqui com seu link
 
 ---
 
-Feito com 💻, café ☕ e muita vontade de aprender.
+Feito com 💻, ☕ e muita vontade de aprender.
