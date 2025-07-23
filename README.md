@@ -90,7 +90,7 @@ Construo projetos simples para praticar e desenvolver minhas habilidades, e comp
 ### 📫 Contato
 
 - 📧 Email: [pedropollis@outlook.com](mailto:pedropollis@outlook.com)  
-- 🔗 LinkedIn: *(em breve)* — crie e atualize aqui com seu link
+- 🔗 LinkedIn: [pedropollis](www.linkedin.com/in/pedropollis)
 
 ---
 
