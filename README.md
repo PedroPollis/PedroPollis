@@ -1,2 +1,98 @@
-# Hi there! I'm Pedro Pollis
+# 👨🏻‍💻 Pedro Pollis
 
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
+
+Olá! Me chamo Pedro Pollis, sou de Franco da Rocha - SP, e atualmente curso Análise e Desenvolvimento de Sistemas na UNINOVE. Estou começando minha jornada no mundo da programação, aprendendo tecnologias como Python, JavaScript, HTML e CSS.  
+Estou construindo projetos simples para praticar e desenvolver minhas habilidades, e compartilho tudo aqui no meu GitHub como parte da minha evolução.
+
+---
+
+### 🚀 Linguagens e Tecnologias em Aprendizado
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="Pedro Pollis GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=PedroPollis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Pedro Pollis Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPollis&theme=tokyonight&layout=compact&custom_title=Tecnologias+Mais+Usadas&langs_count=6" 
+  />
+</p>
+
+<br/>
+<br/>
+
+---
+
+### 📌 Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 💻 Aprendendo programação do zero com foco em **desenvolvimento web**
+- 📍 Franco da Rocha - SP
+- 🌱 Projetos simples, mas com dedicação e vontade de evoluir
+- 📈 Em busca de oportunidades para aplicar o que estou aprendendo
+
+---
+
+### 📫 Contato
+
+Você pode me encontrar em breve no LinkedIn! *(coloque seu link aqui quando criar)*
+
+---
+
+Feito com 💻, café ☕ e muita vontade de aprender.
